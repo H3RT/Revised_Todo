@@ -67,7 +67,7 @@ You can run this Todo App locally by following these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/todo-app.git
+   git clone https://github.com/H3RT/todo-app.git
 
 
 Or download the project as a ZIP file and extract it to your local machine.
